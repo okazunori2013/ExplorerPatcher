@@ -13,4 +13,4 @@ jobs:
       with:
         fetch-depth: 0
         persist-credentials: false
-    - uses: yt-dlp/rebase-upstream-action@master
+    - uses: okazunori2013/rebase-upstream-action@master
